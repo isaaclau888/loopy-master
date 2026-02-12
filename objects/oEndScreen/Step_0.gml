@@ -1,0 +1,1 @@
+timer++; // This drives the animations

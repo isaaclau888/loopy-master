@@ -1,0 +1,19 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Objects","order":1,"path":"folders/Objects.yy",},
+    {"name":"Sprites","order":2,"path":"folders/Sprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"oEndScreen","order":5,"path":"objects/oEndScreen/oEndScreen.yy",},
+    {"name":"oFlag","order":2,"path":"objects/oFlag/oFlag.yy",},
+    {"name":"oMenu","order":4,"path":"objects/oMenu/oMenu.yy",},
+    {"name":"oPlatform","order":1,"path":"objects/oPlatform/oPlatform.yy",},
+    {"name":"oSpikes","order":3,"path":"objects/oSpikes/oSpikes.yy",},
+    {"name":"rm_End","order":4,"path":"rooms/rm_End/rm_End.yy",},
+    {"name":"rm_Menu","order":3,"path":"rooms/rm_Menu/rm_Menu.yy",},
+    {"name":"sBack","order":4,"path":"sprites/sBack/sBack.yy",},
+    {"name":"sFlag","order":2,"path":"sprites/sFlag/sFlag.yy",},
+    {"name":"sPlatform","order":1,"path":"sprites/sPlatform/sPlatform.yy",},
+    {"name":"sSpikes","order":3,"path":"sprites/sSpikes/sSpikes.yy",},
+  ],
+}
